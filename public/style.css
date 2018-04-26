@@ -1,0 +1,13 @@
+.jumbotron {
+  background-image: url("newspaper.jpg");
+  width: 70%;
+  
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 2px 3px gray;
+  font-size: 50px;
+  text-transform: capitalize;
+}
