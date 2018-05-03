@@ -11,3 +11,25 @@ h1 {
   font-size: 50px;
   text-transform: capitalize;
 }
+
+#comment-space {
+  position: absolute;
+  float: right;
+  width: 30%;
+}
+
+textarea, input {
+  display: block;
+  width: 100%;
+  background-color: rgb(214, 252, 199);
+}
+
+input {
+  height: 36px;
+  font-size: 24px;
+}
+
+textarea {
+  height: 200px;
+  font-size: 18px;
+}
